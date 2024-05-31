@@ -1,0 +1,6 @@
+__pycache__/
+C/
+DLLs/
+C/
+*.dll
+cnc_pass.py
